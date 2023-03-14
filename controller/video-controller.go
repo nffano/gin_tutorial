@@ -2,8 +2,8 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/nffano/gin_tutorial/entity"
-	"github.com/nffano/gin_tutorial/service"
+	"github.com/nisrinafano/gin_tutorial/entity"
+	"github.com/nisrinafano/gin_tutorial/service"
 )
 
 type VideoController interface {

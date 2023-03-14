@@ -1,4 +1,4 @@
-module github.com/nffano/gin_tutorial
+module github.com/nisrinafano/gin_tutorial
 
 go 1.19
 
